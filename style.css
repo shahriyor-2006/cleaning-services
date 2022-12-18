@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  position: relative;
+}
+
+.navbar-toggler {
+  position: absolute;
+  left: 150px;
+}
+
+.green {
+  color: #00FF0A;
+}
+
+.toggler {
+  border: 1px solid #00FF0A;
+  width: 20px;
+  height: 10px;
+  margin-top: 7px;
+  border-left: none;
+  border-right: none;
+}
