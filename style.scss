@@ -43,7 +43,7 @@ body{
     background-color: #00FF0A;
     border: 1px solid green;
     height: 100%;
-    width: 95%;
+    width: 93%;
     position: absolute;
     opacity: 0.4;
     top: 0px;
@@ -148,4 +148,33 @@ body{
 .green-bg-text3{
     margin-top: 400px;
     color: white;
+}
+.brand{
+    color: black;
+}
+
+@media screen and (max-width:576px){
+    .navbar-nav{
+        margin-top: 50px;
+        margin-left: -190px;
+    }
+    .left-of-photo{
+        width: 100rem;
+    }
+    .cleaning-apliance{
+        margin-top: 400px;
+    }
+    .space{
+        width: 500px;
+        margin: 0 auto;
+        
+
+    }
+    .number{
+        margin-left: -1rem;
+    }
+}
+.space{
+    width: 900px;
+    margin: 0 auto;
 }
