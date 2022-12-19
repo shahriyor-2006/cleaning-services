@@ -48,8 +48,8 @@ body {
 .green-bg {
   background-color: #00FF0A;
   border: 1px solid green;
-  height: 93%;
-  width: 93%;
+  height: 100%;
+  width: 95%;
   position: absolute;
   opacity: 0.4;
   top: 0px;
@@ -145,4 +145,32 @@ body {
 
 .forty-m {
   background-color: #00FF0A;
+}
+
+.bg-green {
+  background-color: #00FF0A;
+  color: white;
+}
+
+.green-bg1 {
+  height: 550px;
+  width: 400px;
+}
+
+.black-bg {
+  background-color: black;
+  width: 287px;
+  height: 190px;
+  position: absolute;
+  opacity: .5;
+  top: 0px;
+}
+
+.fon {
+  position: relative;
+}
+
+.green-bg-text3 {
+  margin-top: 400px;
+  color: white;
 }
